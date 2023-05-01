@@ -1,0 +1,368 @@
+.main{
+    width: 100%;
+    height: 100%
+
+}
+.top-side{
+    width: 100%;
+    background-image: url(/Images/pexels-snapwire-6945.jpg);
+    background-size: cover;
+    height: 350px;
+
+}
+.top-content{
+    width: 100%;
+    margin-left: 150px;
+    height: 70px;
+    padding-top: 100px;
+
+}
+.top-content h1{
+    font-family: sans-serif;
+    font-size: 25px;
+    margin-top: 10px;
+    color: white;
+    width: 100px;
+    height: 50px;
+}
+.top-content p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    color: white;
+    margin-top: -38;
+}
+.btn{
+    color: white;
+    border: 1px solid #0ba0eb;
+    background-color: #18aaf3;
+    height: 30px;
+}
+.content-1{
+    width: 100%;
+    text-align: center;
+}
+.coded{
+    width: 25%;
+    display: inline-block;
+    margin: 20px;
+    padding: 20px;
+}
+.coded img{
+    border: 1px solid gray;
+    border-radius: 50%;
+    padding: 8px;
+}
+.fully img{
+    border: 1px solid gray;
+    border-radius: 50%;
+    padding: 8px;
+}
+.modern img{
+    border: 1px solid gray;
+    border-radius: 50%;
+    padding: 8px;
+
+}
+h3{
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+p{
+    color: grey;
+}
+.fully{
+    width: 25%;
+    display: inline-block;
+    margin: 20px;
+    padding: 20px;
+}
+.modern{
+    width: 25%;
+    display: inline-block;
+    margin: 20px;
+    padding: 20px;
+
+}
+.main-theme{
+    width: 100%;
+    height: 500px;
+    background-image: url(/Images/pexels-stefan-straka-823841.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.row-1{
+    width: 100%;
+    height: 70px;
+    background-color: #ae445a;
+}
+.row-1 p{
+    display: inline-block;
+    color: white;
+    font-size: 15px;
+    padding-left: 200px;
+}
+.buy-now{
+    margin-left: 600px;
+    margin-top: 17px;
+    width: 100px;
+    height: 35px;
+    border: 1px solid white;
+    background: transparent;
+    color: white;
+    border-radius: 5px;
+    cursor: pointer;
+    outline: none;
+
+}
+.row-2{
+    width: 100%;
+}
+.center{
+    margin-left: 600px;
+    padding-right: 150px;
+    margin-top: 70px;
+    
+}
+.h6tag{
+    color: white;
+    font-size: 15px;
+    font-family: Arial;
+    letter-spacing: 1px;
+    margin-bottom: 1px;
+}
+.par-1{
+    color: white;
+    font-size: 12px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.par-2{
+    color: white;
+    font-size: 12px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+i{
+    font-size: 20px;
+    color: crimson;
+    border-radius: 50%;
+    border: 1px solid gray;
+    padding: 10px;
+
+}
+.fully .fa-solid{
+    font-size: 20px;
+    padding-left: 13px;
+    padding-right: 13px;
+}
+.table{
+    width: 100%;
+    height: 400px;
+}
+.plans{
+    width: 100%;
+    height: 400px;
+    padding-top: 75px;
+    padding-left: 250px;
+
+}
+.free{
+    width: 20%;
+    height: 250px;
+    border: 1px solid grey;
+    display: inline-block;
+}
+.premium{
+    width: 20%;
+    height: 250px;
+    border: 1px solid grey;
+    display: inline-block;
+}
+.gold{
+    width: 20%;
+    height: 250px;
+    border: 1px solid grey;
+    display: inline-block;
+}
+.row-col1{
+    width: 100%;
+    height: 30px;
+    background-color: gainsboro;
+}
+.row-col1 h5{
+    font-weight: normal;
+    font-family: sans-serif;
+    color: black;
+    text-align: center;
+    margin-top: -0px;
+}
+.row-col2{
+    width: 100%;
+    height: 55px;
+    background-color: rgb(227, 227, 236);
+}
+.row-col2 h6{
+    font-weight: normal;
+    font-size: 20px;
+    color: crimson;
+    font-family: sans-serif;
+    margin-top: -11px;
+    text-align: center;
+    padding: 15px 5px 0 5px;
+}
+.row-col3{
+    width: 100%;
+    height: 30px;
+    background-color: ghostwhite;
+}
+.row-col3 p{
+    text-align: center;
+    font-weight: normal;
+    font-family: sans-serif;
+    color: rgb(53, 51, 51);
+    font-size: 11px;
+    margin-top: -0px;
+    padding: 10px 5px 0 5px;
+}
+.row-col4{
+    width: 100%;
+    height: 30px;
+    background-color: rgb(227, 227, 236);
+}
+.row-col4 p{
+    text-align: center;
+    font-weight: normal;
+    font-family: sans-serif;
+    color: rgb(53, 51, 51);
+    font-size: 11px;
+    margin-top: -0px;
+    padding: 10px 5px 0 5px;
+}
+.row-col5{
+    width: 100%;
+    height: 30px;
+    background-color: ghostwhite;
+}
+.row-col5 p{
+    text-align: center;
+    font-weight: normal;
+    font-family: sans-serif;
+    color: rgb(53, 51, 51);
+    font-size: 11px;
+    margin-top: -0px;
+    padding: 10px 5px 0 5px;
+}
+.row-col6{
+    width: 100%;
+    height: 30px;
+    background-color: rgb(227, 227, 236);
+}
+.row-col6 p{
+    text-align: center;
+    font-weight: normal;
+    font-family: sans-serif;
+    color: rgb(53, 51, 51);
+    font-size: 11px;
+    margin-top: -0px;
+    padding: 10px 5px 0 5px;
+}
+.row-col7{
+    width: 100%;
+    height: 56px;
+    background-color: ghostwhite;
+}
+.sign{
+    width: 100px;
+    height: 30px;
+    margin: 15px 5px 0px 75px;
+    background-color: crimson;
+    color: white;
+    border: 1px solid crimson;
+    border-radius: 3px;
+    cursor: pointer;
+
+}
+.sign-up{
+    width: 100%;
+    height: 170px;
+    background-color: #ae445a;
+}
+.sign-up h2{
+    font-size: 15px;
+    font-weight: normal;
+    font-family: sans-serif;
+    color: white;
+    word-spacing: 2px;
+    padding-left: 490px;
+    padding-top: 60px;
+}
+.search{
+    margin-left: 425px;
+    padding-left: 10px;
+    padding-right: 50px;
+    height: 25px;
+    
+}
+.submit{
+    width: 85px;
+    height: 25px;
+    background-color: #0ba0eb;
+    color: white;
+    border: 1px solid #0ba0eb;
+    border-radius: 3px;
+    cursor: pointer;
+}
+::placeholder{
+    font-size: 11px;
+}
+.yayan{
+    width: 100%;
+    height: 180px;
+    background-color: white;
+    display: inline-block;
+}
+.yayan h6{
+    display: inline-block;
+}
+.yayan h6{
+    margin-left: 580px;
+    margin-bottom: -7px;
+    font-family: sans-serif;
+    font-weight: normal;
+    font-size: 11px;
+    padding-top: 45px;
+}
+.yayan p{
+    margin-left: 580px;
+    font-size: 10px;
+}
+.profile{
+    margin-left: 580px;
+    width: 106px;
+    height: 18px;
+    background-color: crimson;
+    color: white;
+    font-family: sans-serif;
+    font-weight: normal;
+    border: 1px solid crimson;
+    border-radius: 3px;
+}
+button{
+    font-size: 11px;
+}
+.yayan img{
+    margin-left: 500px;
+    margin-top: -66px;
+    border-radius: 50%;
+}
+.last{
+    width: 100%;
+    height: 50px;
+    background-color: crimson;
+}
+.copyright{
+    color: white;
+    font-weight: normal;
+    font-size: 11px;
+    font-family: sans-serif;
+    padding-top: 18px;
+    padding-left: 140px;
+}
